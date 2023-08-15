@@ -1,15 +1,15 @@
-#Facebook Tagging Bot
+####Facebook Tagging Bot
 
 The Facebook Tagging Bot is a Python script designed to automate the process of creating and posting tagged content on Facebook. It utilizes the Selenium WebDriver library to interact with the Facebook web interface, enabling automated post creation and user tagging.
 
-#Features
+####Features
 
 Automated Facebook posting and tagging.
 Reads message content from a text file.
 Reads user tagging information from another text file.
 Utilizes Selenium WebDriver to simulate user interactions.
 Provides user interface for specifying message and tagging files.
-#Installation
+####Installation
 Clone the repository:
 
 
@@ -22,7 +22,7 @@ Run the script:
 
 
 python facebook_tagging_bot.py
-#Usage
+###Usage
 
 Run the script and provide the message and tagging file paths.
 The script will automate the login process and open the Facebook post creation page.
@@ -40,6 +40,6 @@ Contributions are welcome! Please open an issue or pull request for any improvem
 
 Replace "your-username" in the clone URL with your actual GitHub username.
 
-Remember to update the installation, usage instructions, and other details according to your project's specifics.
+##Remember to update the installation, usage instructions, and other details according to your project's specifics.
 
 Please note that this README template provides a general structure. You can customize it further based on your preferences and project details.
