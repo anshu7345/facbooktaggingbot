@@ -56,7 +56,7 @@ with open('message.txt', 'r') as post_file:
     post_aerea.send_keys(post_text)
 #tagging
 
-    with open('link.txt', 'r') as tag_file:
+    with open('tags.txt', 'r') as tag_file:
         user_tag = tag_file.read().splitlines()
 
     for i in range(len(user_tag)):
