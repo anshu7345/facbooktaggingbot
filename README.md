@@ -1,4 +1,5 @@
-####Facebook Tagging Bot
+####FacebookTaggingBot
+
 
 The Facebook Tagging Bot is a Python script designed to automate the process of creating and posting tagged content on Facebook. It utilizes the Selenium WebDriver library to interact with the Facebook web interface, enabling automated post creation and user tagging.
 
